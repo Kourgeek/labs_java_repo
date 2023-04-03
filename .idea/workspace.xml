@@ -4,18 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="77106da8-0bce-4ea3-a29e-4edf8f37112d" name="Changes" comment="Пупупу, второй коммит">
-      <change afterPath="$PROJECT_DIR$/src/lr1/task10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr1/task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr1/task3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr1/task4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr1/task5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr1/task6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr1/task7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr1/task8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr1/task9.java" afterDir="false" />
+    <list default="true" id="77106da8-0bce-4ea3-a29e-4edf8f37112d" name="Changes" comment="Пупупу, третий коммит">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lr1/task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lr1/task1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,10 +37,11 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/user/IdeaProjects/lab_1&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.task10">
+  <component name="RunManager">
     <configuration name="task10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lr1.task10" />
       <module name="labs" />
@@ -156,7 +147,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677433495637</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Пупупу, третий коммит">
+      <created>1679240445532</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1679240445532</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -189,6 +187,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Пупупу, первый коммит" />
     <MESSAGE value="Пупупу, второй коммит" />
-    <option name="LAST_COMMIT_MESSAGE" value="Пупупу, второй коммит" />
+    <MESSAGE value="Пупупу, третий коммит" />
+    <option name="LAST_COMMIT_MESSAGE" value="Пупупу, третий коммит" />
   </component>
 </project>
