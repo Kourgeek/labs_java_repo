@@ -26,6 +26,7 @@ public class Circle implements Figures{
 
     public static void main(String[] args) {
         Circle circle = new Circle(5);
-        System.out.printf("%f",(float)(circle.get_area()));
+        System.out.printf("%f\n",(float)(circle.get_area()));
+        System.out.printf("%f",(float)(circle.get_perimetr()));
     }
 }

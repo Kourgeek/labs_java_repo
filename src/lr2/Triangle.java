@@ -16,11 +16,7 @@ public class Triangle implements Figures {
         return (float) (height*base*0.5);
     }
     @Override
-    public float get_perimetr(){
-
-        return (float) (base*3);
-
-    }
+    public float get_perimetr(){return (float) (base*3);}
 
     public float getHeight() {
         return height;
@@ -41,7 +37,8 @@ public class Triangle implements Figures {
 
     public static void main(String[] args) {
         Triangle triangle = new Triangle(3,5);
-        System.out.printf("%f",(float)(triangle.get_area()));
+        System.out.printf("%f\n",(float)(triangle.get_area()));
+        System.out.printf("%f",(float)(triangle.get_perimetr()));
     }
 
 }
