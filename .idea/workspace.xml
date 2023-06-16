@@ -5,14 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="77106da8-0bce-4ea3-a29e-4edf8f37112d" name="Changes" comment="Пупупу, lab2 - completed">
-      <change afterPath="$PROJECT_DIR$/src/lr2/dynamic_dispatcher/Class1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr2/dynamic_dispatcher/Class2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr2/dynamic_dispatcher/tipa_main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr3/exs_recs/LinearList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr3/task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr3/task3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr3/task5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr3/task7.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lr3/exs_recs/LinearList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lr3/task6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lr3/task6.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -176,7 +172,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682889111593</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Пупупу, lab2 - completed">
+      <created>1686930801871</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1686930801871</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
