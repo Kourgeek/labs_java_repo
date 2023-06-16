@@ -4,10 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="77106da8-0bce-4ea3-a29e-4edf8f37112d" name="Changes" comment="3 - лаба 8 задание не решено">
-      <change afterPath="$PROJECT_DIR$/src/lr4/task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr4/task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr4/task3.java" afterDir="false" />
+    <list default="true" id="77106da8-0bce-4ea3-a29e-4edf8f37112d" name="Changes" comment="4">
+      <change afterPath="$PROJECT_DIR$/src/lr5/task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr5/task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr5/task3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr5/task4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr5/task5.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,7 +47,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.task1">
+  <component name="RunManager">
     <configuration name="Bird" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lr2.Bird" />
       <module name="labs" />
@@ -193,7 +195,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686936636842</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="4">
+      <created>1686940472763</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1686940472763</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -230,6 +239,7 @@
     <MESSAGE value="Пупупу, первомайский коммит" />
     <MESSAGE value="Пупупу, lab2 - completed" />
     <MESSAGE value="3 - лаба 8 задание не решено" />
-    <option name="LAST_COMMIT_MESSAGE" value="3 - лаба 8 задание не решено" />
+    <MESSAGE value="4" />
+    <option name="LAST_COMMIT_MESSAGE" value="4" />
   </component>
 </project>
