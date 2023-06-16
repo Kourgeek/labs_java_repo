@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="77106da8-0bce-4ea3-a29e-4edf8f37112d" name="Changes" comment="Пупупу, lab2 - completed">
-      <change afterPath="$PROJECT_DIR$/src/lr3/task8.java" afterDir="false" />
+    <list default="true" id="77106da8-0bce-4ea3-a29e-4edf8f37112d" name="Changes" comment="3 - лаба 8 задание не решено">
+      <change afterPath="$PROJECT_DIR$/src/lr4/task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr4/task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr4/task3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,7 +45,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.task1">
     <configuration name="Bird" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lr2.Bird" />
       <module name="labs" />
@@ -83,12 +85,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="bank" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lr2.bank" />
+    <configuration name="task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lr4.task1" />
       <module name="labs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lr2.*" />
+          <option name="PATTERN" value="lr4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.task1" />
         <item itemvalue="Application.LinearList" />
         <item itemvalue="Application.tipa_main" />
         <item itemvalue="Application.Bird" />
         <item itemvalue="Application.Dog" />
-        <item itemvalue="Application.bank" />
       </list>
     </recent_temporary>
   </component>
@@ -184,7 +186,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686933368348</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="3 - лаба 8 задание не решено">
+      <created>1686936636842</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1686936636842</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -220,6 +229,7 @@
     <MESSAGE value="Пупупу, третий коммит" />
     <MESSAGE value="Пупупу, первомайский коммит" />
     <MESSAGE value="Пупупу, lab2 - completed" />
-    <option name="LAST_COMMIT_MESSAGE" value="Пупупу, lab2 - completed" />
+    <MESSAGE value="3 - лаба 8 задание не решено" />
+    <option name="LAST_COMMIT_MESSAGE" value="3 - лаба 8 задание не решено" />
   </component>
 </project>
